@@ -1,0 +1,104 @@
+
+
+
+/* SELECTORS */
+
+
+
+/* Navigation Bar */
+
+ #navigation {
+ }
+
+ .container-footer {
+ padding: 2% 15%;
+ }
+
+ .navbar-brand {
+  color: #FFF;
+  background-color: #007BFF;
+ }
+
+ /* About */
+
+ #about {
+text-align: justify;
+ }
+
+ .container-about {
+ padding: 0% 15% 3% 15%;
+ }
+
+ .laptop-img {
+   width: 100%;
+   margin-top: 63px;
+ }
+
+/* Usp's */
+
+#usp {
+  background-color: #23374d;
+  color: #FFF;
+text-align: center;
+}
+
+#usp p {
+  text-align: justify;
+}
+
+.container-usp {
+padding: 3% 15%;
+}
+
+.usp-icon {
+  color: #007BFF;
+  padding: 10px;
+  font-size: 4rem;
+}
+
+.usp-icon:hover {
+  color: #FFF;
+}
+
+
+/* Pricing */
+
+#pricing {
+
+}
+.container-pricing {
+padding: 3% 15%;
+}
+
+/* Footer */
+
+#footer {
+  background-color: #23374d;
+  color: #FFF;
+text-align: center;
+}
+
+.container-footer {
+padding: 3% 15%;
+}
+
+.social-btn {
+  padding: 15px 10px;
+  color: #007BFF;
+}
+
+.social-btn:hover {
+  color: #FFF;
+}
+
+/* Media query */
+
+@media (max-width: 1028px) {
+
+.responsive-header {
+  font-size: 2rem;
+}
+
+.card {
+  margin: 3% 0%;
+}
